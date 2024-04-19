@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10995592.svg)](https://doi.org/10.5281/zenodo.10995592)
+
 # LDACS-Abstract-TDMA-MAC
 
 ## Overview
