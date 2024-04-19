@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Ahmed
+    given-names: Musab
+    orcid: https://orcid.org/0000-0001-5554-3414
+  - family-names: Fuger
+    given-names: Konrad
+    orcid: https://orcid.org/0000-0002-8472-1483
+  - family-names: Kuladinithi
+    given-names: Koojana
+    orcid: https://orcid.org/0000-0001-6083-4048
+  - family-names: Timm-Giel
+    given-names: Andreas
+    orcid: https://orcid.org/0000-0002-5998-6113
+title: "LDACS Abstract TDMA MAC"
+version: 1.0
+doi: 10.5281/zenodo.10995592
+date-released: 2024-04-19
