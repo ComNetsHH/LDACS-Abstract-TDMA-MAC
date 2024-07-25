@@ -51,7 +51,6 @@ AbstractLdacsTdmaMac::~AbstractLdacsTdmaMac()
 
 void AbstractLdacsTdmaMac::initialize(int stage)
 {
-    LayeredProtocolBase::initialize(stage);
     MacProtocolBase::initialize(stage);
     if (stage == INITSTAGE_LOCAL) {
         upperLayerInGateId = findGate("upperLayerIn");
