@@ -14,6 +14,6 @@ authors:
     given-names: Andreas
     orcid: https://orcid.org/0000-0002-5998-6113
 title: "LDACS Abstract TDMA MAC"
-version: 1.0
-doi: 10.5281/zenodo.10995592
-date-released: 2024-04-19
+version: 1.0.5
+doi: 10.5281/zenodo.12826801
+date-released: 2024-07-25
