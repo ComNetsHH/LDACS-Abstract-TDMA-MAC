@@ -25,6 +25,8 @@ AbstractLdacsTdmaScheduler::AbstractLdacsTdmaScheduler() {
 AbstractLdacsTdmaScheduler::~AbstractLdacsTdmaScheduler() {
     cancelAndDelete(schedulingSHSelfMessage);
     cancelAndDelete(schedulingP2PSelfMessage);
+    cancelAndDelete(slotSelfMessage);
+
 }
 
 void AbstractLdacsTdmaScheduler::initialize(int stage) {
